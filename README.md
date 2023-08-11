@@ -8,7 +8,7 @@ How to use:
 3. Go to the release folder from the project folder
    ``` cmd
    cd  AspxToMarkdown\bin\Release\net6.0
-4. In cmd, use the command (if the command doesn't work, add ".\" in front of the command
+4. In cmd, use the command (if the command doesn't work, add ".\\" in front of the command
 ``` cmd
 AspxToMarkdown -p {path to the folder}
 ```
