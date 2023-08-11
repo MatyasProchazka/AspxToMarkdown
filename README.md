@@ -9,6 +9,6 @@ How to use:
    ``` cmd
    cd  AspxToMarkdown\bin\Release\net6.0
 4. In cmd, use the command 
-``` cmd
-.\aspxtomarkdown -p {path to the folder}
-```
+   ``` cmd
+   .\aspxtomarkdown -p {path to the folder}
+   ```
