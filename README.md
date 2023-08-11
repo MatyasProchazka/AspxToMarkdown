@@ -1,6 +1,6 @@
 # AspxToMarkdown
 
-Tool to convert .aspc files into -md files
+Tool to convert .aspx files into .md files
 
 How to use:
 
