@@ -1,0 +1,8 @@
+# Requester groups
+      
+The validity of [user roles in a service](../../../../alvao-service-desk/implementation/services/service-roles) may be limited to requests from a specific **group of requesters**. Thus, you can divide the service team into sub-teams, for example, based on the location of the requester. Requests from applicants from different locations are then handled by different resolution teams.           
+           
+         The roles of the resolution team members and their specification for specific Requester groups are set in **ALVAO WebApp - Administration - Service Desk - Services - Edit - Permissions -**[Add permissions](../../../../list-of-windows/alvao-webapp/administration/service-desk/service/detail/service-authorization)**- For Requesters from a group**.           
+          Example:  
+           
+         The *IT/Printers/Something is not working for me* service Requesters are divided into the groups "*Prague*" and "*Brno*". The solvers for this service are divided into the groups "*Resitele\_tiskarny\_Praha*" and "*Resitele\_tiskarny\_Brno*". Group "*Resitele\_tiskarny\_Brno*" has the permissions Operator and Solver for applicants from the group "*Pracovnici\_Brno*", the group "*Resitele\_tiskarny\_Praha*" has the permissions Operator and Solver for applicants from the group "*Pracovnici\_Praha*". If a request is created in this service by a user from the "*Pracovnici\_Brno*" group, only users from the "*Resitele\_tiskarny\_Brno*" group are notified and have permission to resolve this request. Unless permissions are set otherwise, users from the group "*Resitele\_tiskarny\_Praha*" do not have access to this request.

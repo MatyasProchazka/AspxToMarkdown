@@ -1,0 +1,3 @@
+# ALVAO Microsoft Intune Connector
+     TODO - 134500 – Napsat dokumentaci modulu, použít také návrh na Intune, převést sem také dokumentaci modulu ALVAO MS SCCM Connector.     
+This module ...

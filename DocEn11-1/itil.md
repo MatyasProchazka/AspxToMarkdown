@@ -1,0 +1,3 @@
+# ITIL in practice
+      
+The maturity of IT Service Management (ITSM = IT Service Management) is now a critical success factor for most companies. The services provided by the IT department to its customers must be delivered to the agreed quality and situations where this is not happening must be addressed, rectified and prevented quickly enough. This applies to the complete agenda of the IT department, and hence of any service provider. Measurability of work is key, because as we know - what cannot be measured cannot be managed. This will start the imaginary PDCA cycle and enable continuous improvement.

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspxToMarkdown", "AspxToMarkdown\AspxToMarkdown.csproj", "{E1C6B4BE-0493-4015-B45C-7509D869EC16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{850DA5F0-D1CE-4A97-88CB-0FD1A393F810}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C6B4BE-0493-4015-B45C-7509D869EC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C6B4BE-0493-4015-B45C-7509D869EC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C6B4BE-0493-4015-B45C-7509D869EC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C6B4BE-0493-4015-B45C-7509D869EC16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3CFD301-7701-4B91-AE59-FDB88D72E93C}
+	EndGlobalSection
+EndGlobal
